@@ -1,0 +1,12 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: mqCon
+  rabbitmq:
+    host: 159.75.126.247
+    port: 5672
+    username: xz
+    password: 19950813
+    virtual-host: TestHost
